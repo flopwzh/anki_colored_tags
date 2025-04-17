@@ -1,6 +1,6 @@
-# colored-tag-list
+# anki_colored_tags
 
-Displays a list of colorful tags at the top of review cards. This color is always consistent.
+Displays a list of colorful tags at the top of cards during review. This color is always consistent.
 
 To install, download the repo as a zip file, then extract into the anki addons folder (found in appdata)
 
